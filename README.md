@@ -1,4 +1,4 @@
-# Hi, I'm wpsands 👋
+# Hi, I'm Page Sands
 
 **B2B SaaS Growth & AI GTM**  
 
@@ -6,7 +6,7 @@ Lifecycle GTM strategies that lower CAC, accelerate pipeline, and compound NRR, 
 
 
 ### 🔭 What I'm shipping right now
-- Public **AEO frameworks** & prompt libraries that get cited in AI answers  
+- Public **SEO/GEO/AEO frameworks** & prompt libraries that get cited in AI answers  
 - Intent + behavioral outbound experiments (hyper-personalized at scale)  
 - Full-loop playbooks: acquisition → activation → expansion via agents  
 - Versioned marketing systems (prompt chains, eval rubrics, funnel math)  
