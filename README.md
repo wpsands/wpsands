@@ -30,5 +30,5 @@ PostHog for product analytics, funnels, retention & session insights
 - **Email**: page@sandsdx.com 
 
 ### 📌 Explore my public systems
-Check the pinned repos below for forkable playbooks, case studies, prompt chains, and experiment logs.  
+Check the pinned repos for forkable playbooks, case studies, prompt chains, and experiment logs.  
 Everything is versioned and designed to be reproducible because **showing the work > polished decks**.
