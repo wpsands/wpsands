@@ -6,7 +6,7 @@ Lifecycle GTM strategies that lower CAC, accelerate pipeline, and compound NRR, 
 
 
 ### 🔭 What I'm shipping right now
-- Public **SEO/GEO/AEO frameworks** & prompt libraries that get cited in AI answers  
+- Public SEO/GEO/AEO frameworks & prompt libraries that get cited in AI answers  
 - AI Agents for product marketing, e.g., Message Drift
 - Intent + behavioral outbound experiments (hyper-personalized at scale)  
 - Full-loop playbooks: acquisition → activation → expansion via agents  
@@ -14,12 +14,12 @@ Lifecycle GTM strategies that lower CAC, accelerate pipeline, and compound NRR, 
 
 ### 🛠️ Tech & tools I build with (2026 stack)
 
-Instantly for scaling cold email outreach & warmup  
-Clay for B2B lead enrichment, intent signals & waterfall data stacking  
-Claude Code for development, prompt chaining & workflow automation  
-Vercel for fast deployment, edge functions & hosting  
-Astro for building performant, content-first sites & personal tools
-PostHog for product analytics, funnels, retention & session insights  
+- Instantly for scaling cold email outreach & warmup  
+- Clay for B2B lead enrichment, intent signals & waterfall data stacking  
+- Claude Code for development, prompt chaining & workflow automation  
+- Vercel for fast deployment, edge functions & hosting  
+- Astro for building performant, content-first sites & personal tools
+- PostHog for product analytics, funnels, retention & session insights  
 
 ### 📫 Connect with Me  
 - **X**: [@wpsands](https://x.com/wpsands)  
@@ -32,4 +32,4 @@ PostHog for product analytics, funnels, retention & session insights
 
 ### 📌 Explore my public systems
 Check the pinned repos for forkable playbooks, case studies, prompt chains, and experiment logs.  
-Everything is versioned and designed to be reproducible because **showing the work > polished decks**.
+Everything is versioned and designed to show the work.
