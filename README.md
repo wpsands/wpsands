@@ -16,7 +16,9 @@ Lifecycle GTM strategies that lower CAC, accelerate pipeline, and compound NRR, 
 
 - Instantly for scaling cold email outreach & warmup  
 - Clay for B2B lead enrichment, intent signals & waterfall data stacking  
-- Claude Code for development, prompt chaining & workflow automation  
+- Claude Code for development, prompt chaining & workflow automation
+- OpenRouter for multi model routing, cost control & model fallback
+- HQ for running and orchestrating my agent fleet  
 - Vercel for fast deployment, edge functions & hosting  
 - Astro for building performant, content-first sites & personal tools
 - PostHog for product analytics, funnels, retention & session insights  
