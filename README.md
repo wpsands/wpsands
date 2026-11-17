@@ -7,7 +7,7 @@ I build GTM systems and AI agents that lower CAC, grow pipeline and expand reven
 20 years leading enterprise SaaS GTM at Microsoft (Office 365), Avalara, Drift, ConnectWise and Blackbaud.
 
 ### What I'm shipping
-- [Bravenger](https://github.com/wpsands/bravenger): a knowledge base that gives GTM agents company context from day one. LinkedIn post reached 14,886 members with 24,402 impressions, 96% outside my network. 13 stars, 5 forks.
+- [Bravenger](https://github.com/wpsands/bravenger): a knowledge base that gives GTM agents company context from day one. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7442225614771675136/) reached 14,886 members with 24,402 impressions, 96% outside my network. 13 stars, 5 forks.
 - [New Logo Growth](https://github.com/wpsands/newlogo-growth): a Claude Code agent that finds where new logo pipeline leaks and what to test first
 - [Message Drift](https://msgdrift.com): finds where live website copy drifted from the positioning document
 - Public SEO, GEO and AEO frameworks and prompt libraries built to earn citations in AI answers
@@ -38,4 +38,5 @@ Working on a repositioning that hasn't reached pipeline yet? Start at [sandsdx.c
 
 ### Public repos
 Pinned repos hold forkable playbooks, case studies, prompt chains and experiment logs. Everything is versioned so you can see the work.
+
 
