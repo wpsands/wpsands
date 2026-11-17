@@ -8,12 +8,18 @@ I build GTM systems and AI agents that lower CAC, grow pipeline and expand reven
 
 ### What I'm shipping
 - [Bravenger](https://github.com/wpsands/bravenger): a knowledge base that gives GTM agents company context from day one. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7442225614771675136/) reached 14,886 members with 24,402 impressions, 96% outside my network. 13 stars, 5 forks.
-- [New Logo Growth](https://github.com/wpsands/newlogo-growth): a Claude Code agent that finds where new logo pipeline leaks and what to test first
+- [New Logo Growth](https://github.com/wpsands/newlogo-growth): a Claude Code agent that finds where new logo pipeline leaks and what to test first. Site: [newlogogrowth.ai](https://newlogogrowth.ai)
 - [Message Drift](https://msgdrift.com): finds where live website copy drifted from the positioning document
 - Public SEO, GEO and AEO frameworks and prompt libraries built to earn citations in AI answers
 - Outbound experiments driven by intent and behavioral signals
 - Agent playbooks for acquisition, activation and expansion
 - Versioned marketing systems: prompt chains, eval rubrics, funnel math
+
+### Recent writing
+- [What a customer harness is, and what HubSpot's refounding means for revenue teams](https://sandsdx.com/perspectives/executive/customer-harness/)
+- [How I run SandsDX on a GTM harness](https://sandsdx.com/perspectives/executive/gtm-harness/)
+- [How to evaluate a customer harness: 20 questions](https://sandsdx.com/perspectives/how-to/evaluate-customer-harness/)
+- [HubSpot's customer harness story, five days in](https://sandsdx.com/perspectives/executive/hubspot-customer-harness-story-sync/)
 
 ### Stack
 - Instantly for cold email outreach and warmup
