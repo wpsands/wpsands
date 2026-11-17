@@ -18,6 +18,7 @@ I build GTM systems and AI agents that lower CAC, grow pipeline and expand reven
 ### Stack
 - Instantly for cold email outreach and warmup
 - Clay for B2B lead enrichment, intent signals and waterfall data
+- Firecrawl for web scraping, search and structured data extraction
 - Claude Code for development, prompt chaining and workflow automation
 - OpenRouter for multi model routing, cost control and model fallback
 - HQ for running and orchestrating my agent fleet
@@ -38,5 +39,6 @@ Working on a repositioning that hasn't reached pipeline yet? Start at [sandsdx.c
 
 ### Public repos
 Pinned repos hold forkable playbooks, case studies, prompt chains and experiment logs. Everything is versioned so you can see the work.
+
 
 
